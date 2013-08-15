@@ -29,7 +29,7 @@ Attention:这是一个用于iOS开发的库的列表，不完全是开源库
 	* 网格视图：GMGridView
 	* 下拉刷新：SVPullToRefresh、UIRefreshControl、EGOTableViewPullRefresh
 	* Gif播放：OLImageView
-	* 富文本标签：OHAttributedLabel
+	* 富文本标签：DTCoreText、OHAttributedLabel
 	* 分页符：iOS-StyledPageControl 
 	* 仿Path菜单：AwesomeMenu
 	* 饼状菜单：CDPieMenu
