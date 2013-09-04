@@ -26,6 +26,8 @@
 	* 持续集成：[https://www.travis-ci.org/](https://www.travis-ci.org/)
 	* 静态文件CDN：[http://staticfile.org/](http://staticfile.org/)
 	* 免费传真：[http://faxzero.com/](http://faxzero.com/)
+	* 短链接：[http://tinyurl.com/](http://tinyurl.com/)
+	* 长链接：[http://longurl.org/](http://longurl.org/)
 * 资讯
 	* 知乎阅读：[http://www.zhihu.com/read](http://www.zhihu.com/read)	
 * 导航站
