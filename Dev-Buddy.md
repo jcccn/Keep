@@ -10,6 +10,7 @@
 	* 字体查找：[http://www.myfonts.com/WhatTheFont/](http://www.myfonts.com/WhatTheFont/) | [http://www.qiuziti.com/](http://www.qiuziti.com/)
 	* 在线响应式网页设计：[https://froont.com/](https://froont.com/)
 	* 平板网页设计：[http://webr.ly/](http://webr.ly/)
+	* iOS图标生成：[http://www.makeappicon.com/](http://www.makeappicon.com/)
 * 开发
 	* 工具集：[http://www.ostools.net/](http://www.ostools.net/) 
 	* 代码搜索：[http://searchcode.com/](http://searchcode.com/)
