@@ -21,6 +21,10 @@
 	* iOS URL scheme：[http://handleopenurl.com/](http://handleopenurl.com/)
 	* iOS开源UI项目推荐：[https://www.cocoacontrols.com/](https://www.cocoacontrols.com/)
 	* iOS字体查看：[http://iosfonts.com/](http://iosfonts.com/)
+* Xcode插件
+	* 规范注释生成器：[VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode)
+	* 图片名自动补全：[KSImageNamed-Xcode](https://github.com/ksuther/KSImageNamed-Xcode)
+	* 插件管理：[Alcatraz](https://github.com/mneorr/Alcatraz)
 * 办公
 	* 在线Office查看：[http://view.wps.cn/product/dotview](http://view.wps.cn/product/dotview)
 	* 在线设计图表：[https://cacoo.com](https://cacoo.com)
