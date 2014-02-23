@@ -5,6 +5,10 @@ Attention:这是一个用于iOS开发的库的列表，不完全是开源库
 	* 测试：TestFlight
 	* 依赖管理：CocoaPods
 	* 自动生成推送证书：GeneratePushCerts	
+	* AppStore统计：App Annie
+	* 单元测试：GHUnitIOS、OCMock
+	* 错误分析：Crashlytics
+
 * 整体框架
 	* BeeFramework	
 * 工具类
@@ -14,6 +18,8 @@ Attention:这是一个用于iOS开发的库的列表，不完全是开源库
 	* URL Scheme处理：JLRoutes
 	* 压缩工具：zipzap
 	* 模拟Push：SimulatorRemoteNotifications
+	* 密码解锁：KKPasscodeLock
+
 * 数据处理
 	* 正则表达式：RegexKitLite
 	* Base64编码：nicklockwood/Base64
@@ -53,10 +59,16 @@ Attention:这是一个用于iOS开发的库的列表，不完全是开源库
 	* 照片浏览：MWPhotoBrowser、PhotoZoom
 	* 启动器宫格效果：myLauncher 2
 	* 可定制进度条：ADVProgressBar
-	* 放Path顶部图片效果：MDCParallaxView
+	* 仿Path顶部图片效果：MDCParallaxView
 	* 列表中折叠：VPPDropDown
 	* 列表按首字母索引：ADBIndexedTableView
-	* 照片选择器：ELCImagePickerController(多图)、DLCImagePickerController(滤镜)
+	* 照片选择器：ELCImagePickerController(多图)、DLCImagePickerController(滤镜)、QBImagePickerController(多图)
+    * 表单输入仿UITableView：RETableViewManager、QuickDialog、JMStaticContentTableViewController
+    * 列表动画：ADLivelyTableView
+    * 图文混排：DTCoreText
+    * 容器视图：CLFContainerViewController
+    * 日历控件：Kal
+
 * 图像
 	* 网络图片缓存：SDWebImage
 	* 图像处理：GPUImage
@@ -71,6 +83,7 @@ Attention:这是一个用于iOS开发的库的列表，不完全是开源库
 	* 网络访问：AFNetworking、ASIHTTPRequest
 	* REST工具：RestKit、SVHTTPRequest
 	* HTTP测试：Nocilla
+	* 下载：BDMultiDownloader
 * 业务
 	* 统计：Umeng
 	* 分享：ShareSDK
